@@ -1,0 +1,10 @@
+#requirements for CSV bot dependencies
+    accelerate
+    bitsandbytes
+    faiss_cpu
+    langchain
+    pypdf
+    sentence_transformers
+    streamlit
+    torch
+    transformers
